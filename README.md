@@ -1,5 +1,10 @@
 # PARTISAN
 
+
+[![DOI](https://zenodo.org/badge/346401664.svg)](https://zenodo.org/badge/latestdoi/346401664)
+
+
+
 Parameterizing volcanic rock fragments after Dellino and La Volpe (1996); Durig et al. (2012); Cioni et al. (2014); Leibrandt and Le Pennec (2015); Liu et al. (2015); and Schmith et al. (2017).
 
 Authors: T. Dürig and M. Hamish Bowman
