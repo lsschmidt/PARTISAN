@@ -11,7 +11,7 @@ Authors: T. Dürig and M. Hamish Bowman
 This program is free software licensed under the GPL (>=v3). Read the LICENSE file that comes with this software for details.
 
 
-## HOW TO RUN PARTISAN
+## How to run PARTISAN
 
 
 ## I. Installation
@@ -50,12 +50,12 @@ do_plots = false;
 4. PARTISAN may be started by simply typing "Partisan" on the MATLAB command line. (Or by clicking on the "Run" button in the MATLAB GUI).
 
 
-## III OUTPUT
+## III Output
 As output file "particle_shapes.csv" is generated.
 Furthermore figure windows are opened for each analyzed image, if the "do_plots" directive is set to "true".
 
 
-## IV EXAMPLES
+## IV Examples
 Two examples of PARTISAN input files for testing are provided in the "Examples" folder
 
 
