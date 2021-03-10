@@ -4,9 +4,9 @@ Parameterizing volcanic rock fragments after Dellino and La Volpe (1996); Durig 
 
 This is version v2.0 of the PARTISAN software.
 
-Copyright (c) Dürig et al. 2018, PARTIcle Shape ANalyzer PARTISAN - an open source tool for multi-standard two-dimensional particle morphometry analysis, Geophys. An., <a href="https://doi.org/10.4401/ag-7865" target="_top">doi:10.4401/ag-7865</a>
-
 Authors: T. Dürig and M. Hamish Bowman
+
+Copyright (c) Dürig et al. 2018, PARTIcle Shape ANalyzer PARTISAN - an open source tool for multi-standard two-dimensional particle morphometry analysis, Geophys. An., <a href="https://doi.org/10.4401/ag-7865" target="_top">doi:10.4401/ag-7865</a>
 
 This program is free software licensed under the GPL (>=v3). Read the LICENSE file that comes with this software for details.
 
